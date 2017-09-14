@@ -1,8 +1,7 @@
 # hello-world
 my first repo
 this is getting started with github
-#rkeorf
-ellefkrg
-delmgkngr
-fremgklrtm[p;/gtrg
-h,bg'h;,kfmekfkfne
+
+@mention system
+i am getting started with the pull request
+I am not understanding how things works
